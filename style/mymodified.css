@@ -1,0 +1,12 @@
+.section .activity .contentwithoutlink img {
+    border-radius: 15px;
+}
+
+#region-main,
+.card {
+    border-radius: 10px;
+}
+
+h1 {
+    color: #fcba03;
+}
